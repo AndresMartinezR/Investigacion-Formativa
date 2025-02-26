@@ -1,7 +1,6 @@
 """
 Código del método multicriterio AHP
-Autor: Andrés Felipe Martínez Rodríguez
-CC 1110592058
+Andrés Felipe Martínez Rodríguez
 """
 
 # Importación de bibliotecas necesarias
